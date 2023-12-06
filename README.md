@@ -1,2 +1,2 @@
 
-medfine-rajdeep-seals-projects.vercel.app
+https://medfine-rajdeep-seals-projects.vercel.app/
